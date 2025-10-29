@@ -57,6 +57,23 @@ This Histogram shows
 
 ## Business action: Tighten credit policies or create monitoring for low-score clusters.
 
+# Credit Utilization Trend (Line chart)
+
+Why: Tracks how utilization evolves — rising utilization may precede defaults
+
+<img width="2010" height="1106" alt="image" src="https://github.com/user-attachments/assets/38cdbf65-ba9c-4e3b-a7a8-5d0f30ff180b" />
+
+This line charts shows-: 
+
+- Blue card consistently has the highest average utilization ratio (between 0.286 and 0.305) throughout the year.
+
+- Gold and Platinum cards show more variability, with Platinum peaking in August (0.2975) and October (0.3056).
+
+- Silver card remains stable and lowest in utilization (around 0.08–0.10 all year).
+
+- Gold card peaks early in the year (0.1738 in Feb) but drops below 0.05 in June, November, and December.
+
+## Action: Identify customers for limit increases (low-risk high-utilization) or intervention for high-risk.
 
 ---
 
