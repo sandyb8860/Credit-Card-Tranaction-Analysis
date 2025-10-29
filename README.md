@@ -24,6 +24,11 @@ The dashboard helps financial institutions and stakeholders:
 
 ### **4. Data Visualization**
 
+## Business Summary
+
+<img width="1650" height="366" alt="image" src="https://github.com/user-attachments/assets/edb1d43c-2702-43b8-85cb-916e6969ec34" />
+
+
 Profitability of Card category by Gender
 
 ## Business question: Which card tiers or segments drive revenue?
@@ -74,6 +79,22 @@ This line charts shows-:
 - Gold card peaks early in the year (0.1738 in Feb) but drops below 0.05 in June, November, and December.
 
 ## Action: Identify customers for limit increases (low-risk high-utilization) or intervention for high-risk.
+
+## Deliquency Chart By Age Group
+
+<img width="1706" height="836" alt="image" src="https://github.com/user-attachments/assets/d4f808af-10ee-4a07-a903-4925cd2d6089" />
+
+This stacked bar graph shows that-: 
+
+- Delinquency rates by age group are low overall: All age groups have less than 7% delinquent accounts.
+
+- Age group 40-50 shows the highest delinquency percent: 6.77% of this group's accounts are delinquent, which is the highest among all ages.
+
+- Older (60+) and younger (30-40) age groups have the lowest delinquency: Only 4.70% for 60+ and 4.90% for 30-40 age groups.
+
+- Majority of accounts across all age groups are non-delinquent: Over 93% of accounts in every group are non-delinquent.
+
+- Useful insight: The highest delinquency risk is in the 40-50 age group, while age extremes (20-30, 60+) are less risky, suggesting targeted monitoring or credit policies could focus most on middle-aged borrowers.
 
 ---
 
