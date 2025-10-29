@@ -1,4 +1,4 @@
-# 📊 Credit Card Transaction & Customer Report – Power BI Dashboard
+# 📊 Credit Card Transaction & Customer Report 
 ## 🔹 Project Objective
 The objective of this project is to analyze credit card transactions and customer behavior to generate actionable business insights.  
 The dashboard helps financial institutions and stakeholders:
@@ -96,7 +96,11 @@ This stacked bar graph shows that-:
 
 - Useful insight: The highest delinquency risk is in the 40-50 age group, while age extremes (20-30, 60+) are less risky, suggesting targeted monitoring or credit policies could focus most on middle-aged borrowers.
 
----
+Dashboard Snapshots
+
+<img width="1780" height="892" alt="image" src="https://github.com/user-attachments/assets/c898e2f3-6c3b-4c67-90d6-b9050181ae3d" />
+
+<img width="1780" height="892" alt="image" src="https://github.com/user-attachments/assets/c34354a6-7a63-402b-af37-98926937e4c7" />
 
 ## 🔹 Key Insights
 ### **Credit Card Transaction Report**
@@ -111,9 +115,6 @@ This stacked bar graph shows that-:
 3. **Education Impact**: Graduates and Post-Graduates form the majority of high-revenue customers.
 4. **Income Groups**: High-income customers contribute the most to total revenue.
 5. **Customer Satisfaction**: The majority of customers fall within the 3-4 satisfaction score range, indicating room for improvement in customer experience.
-
-
-
 
 ## 🔹 Conclusion
 This Tableau dashboard provides a comprehensive view of credit card usage patterns and customer behavior. It enables data-driven decision-making for marketing strategies, product offerings, and customer satisfaction improvement. The insights derived can help businesses optimize revenue streams and enhance customer engagement.
