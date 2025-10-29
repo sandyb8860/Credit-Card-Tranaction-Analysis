@@ -21,19 +21,42 @@ The dashboard helps financial institutions and stakeholders:
   - Created Week Number calculations for weekly trends using `WEEKNUM`.
   - Defined metrics like Total Revenue, Total Transactions, Total Interest Earned, and Total Amount.
 
-### **3. Dashboard Design**
-- Developed two interactive dashboards:
-  - **Credit Card Transaction Report**: Focuses on revenue, transaction count, and interest by card type, transaction type, and expenditure category.
-  - **Customer Report**: Analyzes customer segmentation based on demographics, income, job, and satisfaction scores.
 
 ### **4. Data Visualization**
-Used Power BI visualizations such as:
-- Cards for KPIs (Total Revenue, Total Interest, Total Transactions, Total Amount).
-- Line Charts for weekly revenue trends.
-- Stacked Bar Charts to compare revenue by Gender, Education Level, Job Type.
-- Donut Charts for card usage by Card Category.
-- Tables for top customers by revenue.
-- TreeMap for revenue breakdown by expenditure categories.
+
+Profitability of Card category by Gender
+
+## Business question: Which card tiers or segments drive revenue?
+
+<img width="1516" height="1116" alt="image" src="https://github.com/user-attachments/assets/a255b112-10e4-4fbf-bc96-a6b77094e0bb" />
+
+This tree map shows 
+
+- Blue card is the top revenue driver for both males (25.7M) and females (20.45M)
+
+- Male customers generate more revenue across all card tiers.
+
+- Blue cards account for nearly 85% of total revenue; Silver and Gold contribute less than 15%.
+
+## Action: Focus upsell/retention on high-revenue segments; reconsider product features for low-revenue tiers
+
+Credit Score Distribution (Histogram)
+## Why: Understand distribution of creditworthiness; spot large low-score clusters.
+
+<img width="1292" height="818" alt="image" src="https://github.com/user-attachments/assets/4462e388-a1dc-4a17-8010-3ca2ee0f0137" />
+
+This Histogram shows
+
+- Majority of customers have satisfaction scores between 3 and 4
+
+- Highest customer count is at score 3 (3,068 people)
+
+- Fewest customers at scores 1 and 2 (1,173 and 1,792)
+
+- Scores 4 and 5 have similar customer numbers (2,099 and 1,976)
+
+## Business action: Tighten credit policies or create monitoring for low-score clusters.
+
 
 ---
 
