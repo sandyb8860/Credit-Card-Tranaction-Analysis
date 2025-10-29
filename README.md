@@ -112,31 +112,8 @@ This stacked bar graph shows that-:
 4. **Income Groups**: High-income customers contribute the most to total revenue.
 5. **Customer Satisfaction**: The majority of customers fall within the 3-4 satisfaction score range, indicating room for improvement in customer experience.
 
-### **TreeMap Insights**
-The treemap visual breaks down revenue by expenditure type (Bills, Entertainment, Fuel, Grocery, Food, Travel). Key observations:
-- **Bills**: Largest expenditure category, contributing the highest revenue.
-- **Entertainment & Fuel**: Significant contributors, with steady transaction volumes.
-- **Grocery & Food**: Essential spending areas showing consistent revenue generation.
-- **Travel**: Moderate revenue, with potential for growth in the travel credit card segment.
 
----
 
-## 🔹 Dashboard Snapshots
-### **Credit Card Transaction Report**
-![Credit Card Transaction Report](https://github.com/sandyb8860/Credit_card_tranaction_Dashboard-Power-BI/blob/main/Credit%20card%20transation.png?raw=true)
-
-### **Customer Report**
-![Customer Report](https://github.com/sandyb8860/Credit_card_tranaction_Dashboard-Power-BI/blob/main/Credit%20card%20customer%20report.png?raw=true)
-
----
-
-## 🔹 Technologies Used
-- **Power BI Desktop**: For data modeling, visualization, and dashboard creation.
-- **DAX (Data Analysis Expressions)**: For custom calculations and measures.
-- **Power Query**: For data cleaning and transformation.
-- **Data Sources**: CSV files for Credit Card Transactions and Customer Details.
-
----
 
 ## 🔹 Conclusion
-This Power BI dashboard provides a comprehensive view of credit card usage patterns and customer behavior. It enables data-driven decision-making for marketing strategies, product offerings, and customer satisfaction improvement. The insights derived can help businesses optimize revenue streams and enhance customer engagement.
+This Tableau dashboard provides a comprehensive view of credit card usage patterns and customer behavior. It enables data-driven decision-making for marketing strategies, product offerings, and customer satisfaction improvement. The insights derived can help businesses optimize revenue streams and enhance customer engagement.
